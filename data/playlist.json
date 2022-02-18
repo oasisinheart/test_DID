@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "success": true,
+  "data": [
+    {
+      "id": "6204bc412f760817fb9ad545",
+      "pylistName": "P1",
+      "pylistSeq": [
+        "6204bc482f760817fb9ad547",
+        "6204bc482f760817fb9ad549",
+        "6204bc492f760817fb9ad54b",
+        "6204bc492f760817fb9ad54d"
+      ],
+      "businessEntity": [
+        "6202f788ec88db2a6d84cee9"
+      ],
+      "createdDate": 1644477505666,
+      "createdBy": "마스터",
+      "updatedDate": 1644477513505,
+      "updatedBy": "마스터"
+    }
+  ]
+}

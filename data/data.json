@@ -1,0 +1,18 @@
+{
+    "key"			: "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJlbHRvdkBlbHRvdi5jb20iLCJhdXRoIjoiU0EiLCJ1c2VySWQiOiI2MjAyMDAxMzlhZjUyMDQ5MzhlMTZhMTQiLCJ1c2VyTmFtZSI6IuuniOyKpO2EsCIsImJ1c2luZXNzSWQiOlsiNjIwMjA1MjRhYzM4M2I1ZjYwYTg5NGZmIiwiNjIwMmY3NzdlYzg4ZGIyYTZkODRjZWU3IiwiNjIwMmY3ODhlYzg4ZGIyYTZkODRjZWU5Il0sImV4cCI6MTY0NDYyMjU5OSwib3JnYW5pemF0aW9uSWQiOiI2MjAyMDUxYmFjMzgzYjVmNjBhODk0ZmQifQ.nCoESX4HhWHb9lWFa0NxO9J3StLG_NCBnW7D68ooFFeO7MVFYOLUu4pSxrF9F56EUWJztB_KRKdoDzbBierWnQ"
+    ,"kiosk_id"		: "6204bc7a2f760817fb9ad553"
+    ,"kiosk_code"		: "HUB001"
+    ,"kiosk_select"		: "http://192.168.0.154:8080/api/kiosk/read_selected_kiosk?id=6204bc7a2f760817fb9ad553"
+    ,"program_all"		: "http://192.168.0.154:8080/api/program/read_all_program?ids=6202f788ec88db2a6d84cee9"
+    ,"channel_all"		: "http://192.168.0.154:8080/api/business/read_selected_business?id=6202f788ec88db2a6d84cee9"
+    ,"channel_select"	: "http://192.168.0.154:8080/api/business/read_selected_business?id=6204bc4f2f760817fb9ad54f"
+    ,"sequence_all"		: "http://192.168.0.154:8080/api/sequence/read_all_sequence?ids=6202f788ec88db2a6d84cee9"
+    ,"sequence_select"	: "http://192.168.0.154:8080/api/sequence/read_selected_sequence?id=6204bc582f760817fb9ad551"
+    ,"playlist_all"		: "http://192.168.0.154:8080/api/playlist/read_all_playlist?ids=6202f788ec88db2a6d84cee9"
+    ,"playlist_select"	: "http://192.168.0.154:8080/api/playlist/read_selected_playlist?id=6204bc412f760817fb9ad545"
+    ,"contents_all"		: "http://192.168.0.154:8080/api/content/read_all_content?ids=6202f788ec88db2a6d84cee9"
+    ,"contents_select"	: "http://192.168.0.154:8080/api/content/read_selected_content?id=6204bc482f760817fb9ad547"
+    ,"media_all"		: "http://192.168.0.154:8080/api/media/read_all_media?ids=6202f788ec88db2a6d84cee9"
+    ,"media_select"		: "http://192.168.0.154:8080/api/media/read_selected_media?id=6204bc3a2f760817fb9ad543"
+    ,"media_url"		: "http://192.168.0.154:8080/api/media/read_all_media_url?ids=6202f788ec88db2a6d84cee9"
+}

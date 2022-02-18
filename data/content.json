@@ -1,0 +1,59 @@
+{
+  "status": 200,
+  "success": true,
+  "data": [
+    {
+      "id": "6204bc482f760817fb9ad547",
+      "contentDuration": "10",
+      "contentOrder": "1",
+      "media": "6204bc3a2f760817fb9ad543",
+      "businessEntity": [
+        "6202f788ec88db2a6d84cee9"
+      ],
+      "createdDate": 1644477512055,
+      "createdBy": "마스터",
+      "updatedDate": 1644477512055,
+      "updatedBy": "마스터"
+    },
+    {
+      "id": "6204bc482f760817fb9ad549",
+      "contentDuration": "10",
+      "contentOrder": "2",
+      "media": "6204bc3a2f760817fb9ad541",
+      "businessEntity": [
+        "6202f788ec88db2a6d84cee9"
+      ],
+      "createdDate": 1644477512567,
+      "createdBy": "마스터",
+      "updatedDate": 1644477512567,
+      "updatedBy": "마스터"
+    },
+    {
+      "id": "6204bc492f760817fb9ad54b",
+      "contentDuration": "10",
+      "contentOrder": "3",
+      "media": "6204bc3a2f760817fb9ad53e",
+      "businessEntity": [
+        "6202f788ec88db2a6d84cee9"
+      ],
+      "createdDate": 1644477513056,
+      "createdBy": "마스터",
+      "updatedDate": 1644477513056,
+      "updatedBy": "마스터"
+    },
+    {
+      "id": "6204bc492f760817fb9ad54d",
+      "contentDuration": "10",
+      "contentOrder": "4",
+      "media": "6204bc3a2f760817fb9ad53d",
+      "businessEntity": [
+        "6202f788ec88db2a6d84cee9"
+      ],
+      "createdDate": 1644477513496,
+      "createdBy": "마스터",
+      "updatedDate": 1644477513496,
+      "updatedBy": "마스터"
+    }
+
+  ]
+}

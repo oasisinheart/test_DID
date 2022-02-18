@@ -1,0 +1,61 @@
+{
+  "status": 200,
+  "success": true,
+  "data": {
+    "id": "6204bc7a2f760817fb9ad553",
+    "kioskCode": "HUB001",
+    "kioskName": "K1",
+    "kioskPassword": "1234",
+    "kioskStatus": "Offline",
+    "kioskSchedule": [
+      {
+        "day": "Mon",
+        "type": "shutdown",
+        "time": 1644498000214
+      },
+      {
+        "day": "Tue",
+        "type": "shutdown",
+        "time": 1644498000214
+      },
+      {
+        "day": "Wed",
+        "type": "shutdown",
+        "time": 1644498000214
+      },
+      {
+        "day": "Thu",
+        "type": "shutdown",
+        "time": 1644498000214
+      },
+      {
+        "day": "Fri",
+        "type": "shutdown",
+        "time": 1644498000214
+      },
+      {
+        "day": "Sat",
+        "type": "shutdown",
+        "time": 1644498000214
+      },
+      {
+        "day": "Sun",
+        "type": "shutdown",
+        "time": 1644498000214
+      }
+    ],
+    "kioskReloadStatus": "false",
+    "kioskLocation": null,
+    "kioskFloor": null,
+    "kioskLastReloadDate": "1644477562231",
+    "kioskVersion": "0",
+    "serverVersion": "1644477562231",
+    "program": null,
+    "channel": "6204bc4f2f760817fb9ad54f",
+    "businessEntity": "6202f788ec88db2a6d84cee9",
+    "createdDate": 1644477562231,
+    "createdBy": "마스터",
+    "updatedDate": 1644477562231,
+    "updatedBy": "마스터"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "status": 200,
+  "success": true,
+  "data": [
+    {
+      "id": "6204bc582f760817fb9ad551",
+      "businessEntity": [
+        "6202f788ec88db2a6d84cee9"
+      ],
+      "playlist": "6204bc412f760817fb9ad545",
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "startTime": "0:00",
+      "endTime": "0:00",
+      "order": "1",
+      "createdDate": 1644477528832,
+      "createdBy": "마스터",
+      "updatedDate": 1644477528832,
+      "updatedBy": "마스터"
+    }
+  ]
+}

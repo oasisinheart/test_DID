@@ -1,0 +1,78 @@
+{
+  "status": 200,
+  "success": true,
+  "data": [
+    {
+      "id": "6204bc3a2f760817fb9ad53e",
+      "mediaName": "H_TEST06_2022-02-10_at_16.18.18.215.jpg",
+      "mediaType": "image/jpeg",
+      "mediaSize": "83668",
+      "mediaThumbnailUrl": null,
+      "mediaServerUrl": "https://eltov.s3.ap-northeast-2.amazonaws.com/media/H_TEST06_2022-02-10_at_16.18.18.215.jpg",
+      "mediaDuration": null,
+      "mediaAvailableDate": null,
+      "mediaExpiredDate": null,
+      "businessEntity": [
+        "6202f788ec88db2a6d84cee9"
+      ],
+      "createdDate": 1644477498310,
+      "createdBy": "마스터",
+      "updatedDate": 1644477498310,
+      "updatedBy": "마스터"
+    },
+    {
+      "id": "6204bc3a2f760817fb9ad53d",
+      "mediaName": "H_TEST05_2022-02-10_at_16.18.17.814.jpg",
+      "mediaType": "image/jpeg",
+      "mediaSize": "6331",
+      "mediaThumbnailUrl": null,
+      "mediaServerUrl": "https://eltov.s3.ap-northeast-2.amazonaws.com/media/H_TEST05_2022-02-10_at_16.18.17.814.jpg",
+      "mediaDuration": null,
+      "mediaAvailableDate": null,
+      "mediaExpiredDate": null,
+      "businessEntity": [
+        "6202f788ec88db2a6d84cee9"
+      ],
+      "createdDate": 1644477498310,
+      "createdBy": "마스터",
+      "updatedDate": 1644477498310,
+      "updatedBy": "마스터"
+    },
+    {
+      "id": "6204bc3a2f760817fb9ad541",
+      "mediaName": "H_TEST07_2022-02-10_at_16.18.18.297.jpg",
+      "mediaType": "image/jpeg",
+      "mediaSize": "65115",
+      "mediaThumbnailUrl": null,
+      "mediaServerUrl": "https://eltov.s3.ap-northeast-2.amazonaws.com/media/H_TEST07_2022-02-10_at_16.18.18.297.jpg",
+      "mediaDuration": null,
+      "mediaAvailableDate": null,
+      "mediaExpiredDate": null,
+      "businessEntity": [
+        "6202f788ec88db2a6d84cee9"
+      ],
+      "createdDate": 1644477498407,
+      "createdBy": "마스터",
+      "updatedDate": 1644477498407,
+      "updatedBy": "마스터"
+    },
+    {
+      "id": "6204bc3a2f760817fb9ad543",
+      "mediaName": "H_TEST08_2022-02-10_at_16.18.18.412.jpg",
+      "mediaType": "image/jpeg",
+      "mediaSize": "27755",
+      "mediaThumbnailUrl": null,
+      "mediaServerUrl": "https://eltov.s3.ap-northeast-2.amazonaws.com/media/H_TEST08_2022-02-10_at_16.18.18.412.jpg",
+      "mediaDuration": null,
+      "mediaAvailableDate": null,
+      "mediaExpiredDate": null,
+      "businessEntity": [
+        "6202f788ec88db2a6d84cee9"
+      ],
+      "createdDate": 1644477498507,
+      "createdBy": "마스터",
+      "updatedDate": 1644477498507,
+      "updatedBy": "마스터"
+    }
+  ]
+}

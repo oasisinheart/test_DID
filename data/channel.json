@@ -1,0 +1,36 @@
+{
+  "status": 200,
+  "success": true,
+  "data": [
+    {
+      "id": "6204bc4f2f760817fb9ad54f",
+      "businessEntity": [
+        "6202f788ec88db2a6d84cee9"
+      ],
+      "chnCoverColor": "primary",
+      "chnWidth": "1920",
+      "chnHeight": "1080",
+      "chnName": "C1",
+      "chnType": "defined",
+      "chnLayoutType": "l_main",
+      "chnZone": [
+        {
+          "zoneName": "zone1",
+          "zoneWidth": "100%",
+          "zoneHeight": "100%",
+          "zoneTop": "0%",
+          "zoneLeft": "0%",
+          "zoneSequence": [
+            "6204bc582f760817fb9ad551"
+          ],
+          "zoneFitType": "center",
+          "zoneBgColor": "black"
+        }
+      ],
+      "createdDate": 1644477519603,
+      "createdBy": "마스터",
+      "updatedDate": 1644477528852,
+      "updatedBy": "마스터"
+    }
+  ]
+}
